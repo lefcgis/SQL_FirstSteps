@@ -1,6 +1,7 @@
 <h1># SQL: Primeros pasos👨‍💻💊</h1>
-
 **Luis Ferrer 👨‍💻 - Asociación QGIS Perú**
+
+![wallpaper](images/mysql.jpg)
 
 <br />
 <br />
