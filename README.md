@@ -12,7 +12,7 @@
 
 <h1>💊 Comandos 💊</h1>
 
-🌱 SELECT (Extrae información desde una base de datos).
+🌱 <h1>**SELECT**</h1> (Extrae información desde una base de datos).
 La data resultante es almacenada en una tabla de resultados llamada Conjunto de resultados (result - set).<br />
 <br />
 
@@ -21,6 +21,9 @@ La data resultante es almacenada en una tabla de resultados llamada Conjunto de 
 <br />
 
 Columna 1 y Columna 2 son los nombres de los campos de la tabla desde donde quieres seleccionar los datos. Si deseas seleccionar todos los campos disponibles en la tabla, utiiza la siguiente sintaxis.<br />
+<br />
 
-SELECT * FROM nombre_tabla
+**SELECT * FROM nombre_tabla**<br />
+<br />
+<br />
 
