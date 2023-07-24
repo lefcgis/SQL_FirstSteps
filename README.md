@@ -25,8 +25,8 @@ Columna 1 y Columna 2 son los nombres de los campos de la tabla desde donde quie
 Utilizado para modificar registros existentes en una tabla.<br />
 <br />
 **UPDATE nombre_tabla**<br />
-**SET Columna 1= Valor1,**<br />
-      Columna 2= Valor2,...<br />
+**SET columna 1= valor 1,**<br />
+      columna 2= valor 2,...<br />
 **WHERE Condición;**<br />
 <br />
 Por ejemplo:<br />
@@ -43,4 +43,21 @@ La función **DELETE** es utilizada para eliminar registros existentes en una ta
 Por ejemplo:<br />
 **DELETE FROM cliente_db**<br />
 **WHERE nomb_client = 'Lucho F.';**<br />
+*********************************************************************************************************************
+🌱 **INSERT INTO**<br />
+**INSERT INTO** es una función que se utiliza para insertar(agregar) **nuevos registros** en una tabla.<br />
+Se puede escribir la función INSERT INTO de dos maneras:<br />
+<br />
+1. Especificando las columnas y valores que serán insertados<br />
+**INSERT INTO nombre_tabla**<br />
+**(columna 1, columna 2, columna 3,...)**<br />
+**VALUES(valor 1, valor 2, valor 3,...) ;**<br />
+<br />
+1. No especificando las columnas que serán insertados<br />
+**INSERT INTO nombre_tabla**<br />
+**VALUES(valor 1, valor 2, valor 3,...) ;**<br />
+<br />
+Por ejemplo:<br />
+**INSERT INTO cliente_db (nomb_client, nomb_contact, direcc, distrito, pais)**<br />
+**VALUES('Ricardo Belmont', 'Augusto Ferrando', 'Av. Manco Capac 1260', 'La Victoria', 'Perú') ;**<br />
 *********************************************************************************************************************
