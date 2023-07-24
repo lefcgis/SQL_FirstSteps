@@ -16,7 +16,7 @@
 La data resultante es almacenada en una tabla de resultados llamada Conjunto de resultados (result - set).<br />
 <br />
 
-**SELECT Columna 1, Columna 2,...**
+**SELECT Columna 1, Columna 2,...**<br />
 **FROM nombre_tabla**<br />
 <br />
 
