@@ -22,7 +22,6 @@ Columna 1 y Columna 2 son los nombres de los campos de la tabla desde donde quie
 <br />
 **SELECT * FROM nombre_tabla**<br />
 <br />
-<br />
 *********************************************************************************************************************
 🌱 **UPDATE**<br />
 Utilizado para modificar registros existentes en una tabla.<br />
