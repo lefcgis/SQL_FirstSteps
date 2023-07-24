@@ -34,5 +34,14 @@ Por ejemplo:<br />
 **UPDATE cliente_db**<br />
 **SET nomb_client = 'Lucho F.'**<br />
       **distrito = 'Villa El Salvarock'**<br />
+*********************************************************************************************************************
+🌱 **DELETE**<br />
+La función **DELETE** es utilizada para eliminar registros existentes en una tabla.<br />
 <br />
+**DELETE FROM nombre_tabla**<br />
+**WHERE Condición;**<br />
 <br />
+Por ejemplo:<br />
+**DELETE FROM cliente_db**<br />
+**WHERE nomb_client = 'Lucho F.';**<br />
+*********************************************************************************************************************
