@@ -23,7 +23,6 @@ Columna 1 y Columna 2 son los nombres de los campos de la tabla desde donde quie
 **SELECT * FROM nombre_tabla**<br />
 <br />
 <br />
-
 🌱 **UPDATE**<br />
 Utilizado para modificar registros existentes en una tabla.<br />
 <br />
@@ -33,7 +32,6 @@ Utilizado para modificar registros existentes en una tabla.<br />
 **WHERE Condición;**<br />
 <br />
 Por ejemplo:<br />
-<br />
 **UPDATE cliente_db**<br />
 **SET nomb_client = 'Lucho F.'**<br />
       **distrito = 'Villa El Salvarock'**<br />
