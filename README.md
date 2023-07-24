@@ -14,12 +14,13 @@
 
 🌱 SELECT (Extrae información desde una base de datos).
 La data resultante es almacenada en una tabla de resultados llamada Conjunto de resultados (result - set).<br />
-<br />
 
-SELECT Syntax
+SELECT Syntax:
 
-SELECT Column 1, column 2,...
-FROM table_name
+SELECT Columna 1, Columna 2,...
+FROM nombre_tabla
 
+Columna 1 y Columna 2 son los nombres de los campos de la tabla desde donde quieres seleccionar los datos. Si deseas seleccionar todos los campos disponibles en la tabla, utiiza la siguiente sintaxis.
 
+SELECT * FROM nombre_tabla
 
