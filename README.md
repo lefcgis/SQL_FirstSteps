@@ -19,7 +19,7 @@ La data resultante es almacenada en una tabla de resultados llamada Conjunto de 
 SELECT Syntax:
 
 SELECT Columna 1, Columna 2,...
-FROM nombre_tabla
+FROM nombre_tabla<br />
 <br />
 
 Columna 1 y Columna 2 son los nombres de los campos de la tabla desde donde quieres seleccionar los datos. Si deseas seleccionar todos los campos disponibles en la tabla, utiiza la siguiente sintaxis.<br />
