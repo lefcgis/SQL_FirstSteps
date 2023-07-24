@@ -45,15 +45,13 @@ Por ejemplo:<br />
 **WHERE nomb_client = 'Lucho F.';**<br />
 *********************************************************************************************************************
 🌱 **INSERT INTO**<br />
-**INSERT INTO** es una función que se utiliza para insertar(agregar) **nuevos registros** en una tabla.<br />
-Se puede escribir la función INSERT INTO de dos maneras:<br />
+**INSERT INTO** es una función que se utiliza para insertar(agregar) **nuevos registros** en una tabla. Se puede escribir la función INSERT INTO de dos maneras:<br />
 <br />
 1. Especificando las columnas y valores que serán insertados<br />
 **INSERT INTO nombre_tabla**<br />
 **(columna 1, columna 2, columna 3,...)**<br />
 **VALUES(valor 1, valor 2, valor 3,...) ;**<br />
-<br />
-1. No especificando las columnas que serán insertados<br />
+2. No especificando las columnas que serán insertados<br />
 **INSERT INTO nombre_tabla**<br />
 **VALUES(valor 1, valor 2, valor 3,...) ;**<br />
 <br />
