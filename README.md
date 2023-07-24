@@ -21,7 +21,6 @@ Extrae información desde una base de datos. La data resultante es almacenada en
 Columna 1 y Columna 2 son los nombres de los campos de la tabla desde donde quieres seleccionar los datos. Si deseas seleccionar todos los campos disponibles en la tabla, utiiza la siguiente sintaxis.<br />
 <br />
 **SELECT * FROM nombre_tabla**<br />
-<br />
 *********************************************************************************************************************
 🌱 **UPDATE**<br />
 Utilizado para modificar registros existentes en una tabla.<br />
