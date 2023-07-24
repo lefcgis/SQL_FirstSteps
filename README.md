@@ -14,6 +14,7 @@
 
 🌱 SELECT (Extrae información desde una base de datos).
 La data resultante es almacenada en una tabla de resultados llamada Conjunto de resultados (result - set).<br />
+<br />
 
 SELECT Syntax
 
