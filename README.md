@@ -24,3 +24,18 @@ Columna 1 y Columna 2 son los nombres de los campos de la tabla desde donde quie
 <br />
 <br />
 
+🌱 **UPDATE**<br />
+Utilizado para modificar registros existentes en una tabla.<br />
+<br />
+**UPDATE nombre_tabla**<br />
+**SET Columna 1= Valor1,**<br />
+      Columna 2= Valor2,...<br />
+**WHERE Condición;**<br />
+<br />
+Por ejemplo:<br />
+<br />
+**UPDATE cliente_db**<br />
+**SET nomb_client = 'Lucho F.'**<br />
+      **distrito = 'Villa El Salvarock'**<br />
+<br />
+<br />
