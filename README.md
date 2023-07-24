@@ -54,7 +54,7 @@ Por ejemplo:<br />
 2. No especificando las columnas que serán insertados<br />
 **INSERT INTO nombre_tabla**<br />
 **VALUES(valor 1, valor 2, valor 3,...) ;**<br />
-<br />
+
 Por ejemplo:<br />
 **INSERT INTO cliente_db (nomb_client, nomb_contact, direcc, distrito, pais)**<br />
 **VALUES('Ricardo Belmont', 'Augusto Ferrando', 'Av. Manco Capac 1260', 'La Victoria', 'Perú') ;**<br />
