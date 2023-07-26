@@ -12,7 +12,7 @@
 <h1>💊 Comandos 💊</h1>
 
 🌱 **SELECT**<br />
-Extrae información desde una base de datos. La data resultante es almacenada en una tabla de resultados llamada Conjunto de resultados (result - set).<br />
+La función **SELECT** extrae información desde una base de datos. La data resultante es almacenada en una tabla de resultados llamada Conjunto de resultados (result - set).<br />
 <br />
 **SELECT Columna 1, Columna 2,...**<br />
 **FROM nombre_tabla**<br />
@@ -22,7 +22,7 @@ Columna 1 y Columna 2 son los nombres de los campos de la tabla desde donde quie
 **SELECT * FROM nombre_tabla**
 *****************************************************************************************************************
 🌱 **UPDATE**<br />
-Utilizado para modificar registros existentes en una tabla.<br />
+**UPDATE** es utilizado para modificar registros existentes en una tabla.<br />
 <br />
 **UPDATE nombre_tabla**<br />
 **SET columna 1= valor 1,**<br />
@@ -63,14 +63,14 @@ Por ejemplo:<br />
 **VALUES('Ricardo Belmont', 'Augusto Ferrando', 'Av. Manco Capac 1260', 'La Victoria', 'Perú') ;**<br />
 *****************************************************************************************************************
 🌱 **CREATE DATABASE**<br />
-La función CREATE DATABASE es usada para crear una nueva base de datos SQL.**<br />
+La función **CREATE DATABASE** es usada para crear una nueva base de datos SQL.**<br />
 
 Por ejemplo:<br />
 
 **CREATE DATABASE comida_db**;
 *****************************************************************************************************************
 🌱 **ALTER TABLE**<br />
-La función ALTER TABLE es utilizada para añadir, borrar o modificar columnas en una tabla existente.<br />
+La función **ALTER TABLE** es utilizada para añadir, borrar o modificar columnas en una tabla existente.<br />
 También es usada para añadir y borrar varias restricciones en una tabla existente.<br />
 
 Por ejemplo:<br />
@@ -86,7 +86,7 @@ Por ejemplo:<br />
 ***************************************************************************************************************
 🌱 **CREATE TABLE**<br />
 
-La función CREATE TABLE es utilizada para crear una nueva tabla en una base de datos.<br />
+La función **CREATE TABLE** es utilizada para crear una nueva tabla en una base de datos.<br />
 
 Por ejemplo:<br />
 
@@ -98,3 +98,11 @@ Por ejemplo:<br />
       distr VARCHAR(100)
   );**
 *****************************************************************************************************************
+🌱 **DROP TABLE**<br />
+La función **DROP TABLE** se utiliza para borrar una tabla existente en una base de datos.<br />
+
+Por ejemplo:<br />
+
+**DROP TABLE mascotas;**
+*****************************************************************************************************************
+
