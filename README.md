@@ -30,6 +30,7 @@ Utilizado para modificar registros existentes en una tabla.<br />
 **WHERE Condición;**<br />
 <br />
 Por ejemplo:<br />
+
 **UPDATE cliente_db**<br />
 **SET nomb_client = 'Lucho F.'**<br />
       **distrito = 'Villa El Salvarock'**<br />
@@ -41,6 +42,7 @@ La función **DELETE** es utilizada para eliminar registros existentes en una ta
 **WHERE Condición;**<br />
 <br />
 Por ejemplo:<br />
+
 **DELETE FROM cliente_db**<br />
 **WHERE nomb_client = 'Lucho F.';**<br />
 *********************************************************************************************************************
@@ -56,6 +58,7 @@ Por ejemplo:<br />
 **VALUES(valor 1, valor 2, valor 3,...) ;**<br />
 
 Por ejemplo:<br />
+
 **INSERT INTO cliente_db (nomb_client, nomb_contact, direcc, distrito, pais)**<br />
 **VALUES('Ricardo Belmont', 'Augusto Ferrando', 'Av. Manco Capac 1260', 'La Victoria', 'Perú') ;**<br />
 *********************************************************************************************************************
@@ -63,6 +66,7 @@ Por ejemplo:<br />
 La función CREATE DATABASE es usada para crear una nueva base de datos SQL.**<br />
 
 Por ejemplo:<br />
+
 **CREATE DATABASE comida_db**;
 *********************************************************************************************************************
 🌱 **ALTER TABLE**<br />
