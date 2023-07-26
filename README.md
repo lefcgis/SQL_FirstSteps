@@ -59,3 +59,22 @@ Por ejemplo:<br />
 **INSERT INTO cliente_db (nomb_client, nomb_contact, direcc, distrito, pais)**<br />
 **VALUES('Ricardo Belmont', 'Augusto Ferrando', 'Av. Manco Capac 1260', 'La Victoria', 'Perú') ;**<br />
 *********************************************************************************************************************
+🌱 **CREATE DATABASE**<br />
+La función CREATE DATABASE es usada para crear una nueva base de datos SQL.**<br />
+
+Por ejemplo:<br />
+**CREATE DATABASE comida_db**;
+*********************************************************************************************************************
+🌱 **ALTER TABLE**<br />
+La función ALTER TABLE es utilizada para añadir, borrar o modificar columnas en una tabla existente.<br />
+También es usada para añadir y borrar varias restricciones en una tabla existente.<br />
+
+Por ejemplo:<br />
+
+1. **ALTER TABLE** - **ADD COLUMN**<br />
+**ALTER TABLE clientes**<br />
+**ADD email VARCHAR (255)**<br />
+
+2. **ALTER TABLE** - **DROP COLUMN**<br />
+**ALTER TABLE clientes**<br />
+**DROP COLUMN email ;**<br />
