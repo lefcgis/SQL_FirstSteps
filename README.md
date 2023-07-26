@@ -82,7 +82,9 @@ Por ejemplo:<br />
 2. **ALTER TABLE** - **DROP COLUMN**<br />
 **ALTER TABLE clientes**<br />
 **DROP COLUMN email ;**<br />
-*****************************************************************************************************************🌱 **CREATE TABLE**<br />
+
+***************************************************************************************************************
+🌱 **CREATE TABLE**<br />
 
 La función CREATE TABLE es utilizada para crear una nueva tabla en una base de datos.<br />
 
