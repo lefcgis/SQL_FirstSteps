@@ -12,7 +12,7 @@
 <h1>💊 Comandos 💊</h1>
 
 🌱 **SELECT**<br />
-La función **SELECT** extrae información desde una base de datos. La data resultante es almacenada en una tabla de resultados llamada Conjunto de resultados (result - set).<br />
+Extrae información desde una base de datos. La data resultante es almacenada en una tabla de resultados llamada Conjunto de resultados (result - set).<br />
 <br />
 **SELECT Columna 1, Columna 2,...**<br />
 **FROM nombre_tabla**<br />
@@ -22,7 +22,7 @@ Columna 1 y Columna 2 son los nombres de los campos de la tabla desde donde quie
 **SELECT * FROM nombre_tabla**
 *****************************************************************************************************************
 🌱 **UPDATE**<br />
-**UPDATE** es utilizado para modificar registros existentes en una tabla.<br />
+Es utilizado para **modificar** registros existentes en una tabla.<br />
 <br />
 **UPDATE nombre_tabla**<br />
 **SET columna 1= valor 1,**<br />
@@ -36,7 +36,7 @@ Por ejemplo:<br />
       **distrito = 'Villa El Salvarock'**<br />
 *****************************************************************************************************************
 🌱 **DELETE**<br />
-La función **DELETE** es utilizada para eliminar registros existentes en una tabla.<br />
+Es utilizada para **eliminar** registros existentes en una tabla.<br />
 <br />
 **DELETE FROM nombre_tabla**<br />
 **WHERE Condición;**<br />
@@ -47,7 +47,7 @@ Por ejemplo:<br />
 **WHERE nomb_client = 'Lucho F.';**<br />
 *****************************************************************************************************************
 🌱 **INSERT INTO**<br />
-**INSERT INTO** es una función que se utiliza para insertar(agregar) **nuevos registros** en una tabla. Se puede escribir la función INSERT INTO de dos maneras:<br />
+Se utiliza para **insertar(agregar) nuevos registros** en una tabla. Se puede escribir la función de dos maneras:<br />
 <br />
 1. Especificando las columnas y valores que serán insertados<br />
 **INSERT INTO nombre_tabla**<br />
@@ -63,14 +63,14 @@ Por ejemplo:<br />
 **VALUES('Ricardo Belmont', 'Augusto Ferrando', 'Av. Manco Capac 1260', 'La Victoria', 'Perú') ;**<br />
 *****************************************************************************************************************
 🌱 **CREATE DATABASE**<br />
-La función **CREATE DATABASE** es usada para crear una nueva base de datos SQL.**<br />
+Es usada para **crear** una nueva base de datos SQL.**<br />
 
 Por ejemplo:<br />
 
 **CREATE DATABASE comida_db**;
 *****************************************************************************************************************
 🌱 **ALTER TABLE**<br />
-La función **ALTER TABLE** es utilizada para añadir, borrar o modificar columnas en una tabla existente.<br />
+Es utilizada para **añadir, borrar o modificar** columnas en una tabla existente.<br />
 También es usada para añadir y borrar varias restricciones en una tabla existente.<br />
 
 Por ejemplo:<br />
@@ -86,7 +86,7 @@ Por ejemplo:<br />
 ***************************************************************************************************************
 🌱 **CREATE TABLE**<br />
 
-La función **CREATE TABLE** es utilizada para crear una nueva tabla en una base de datos.<br />
+Es utilizada para **crear** una nueva tabla en una base de datos.<br />
 
 Por ejemplo:<br />
 
@@ -99,10 +99,24 @@ Por ejemplo:<br />
   );**
 *****************************************************************************************************************
 🌱 **DROP TABLE**<br />
-La función **DROP TABLE** se utiliza para borrar una tabla existente en una base de datos.<br />
+Se utiliza para borrar una tabla existente en una base de datos.<br />
 
 Por ejemplo:<br />
 
 **DROP TABLE mascotas;**
+*****************************************************************************************************************
+🌱 **CREATE INDEX**<br />
+Se utiliza para **crear índices** en una tabla. Permite recuperar datos desde otra base de datos, de manera más rápida y eficiente.<br />
+
+Por ejemplo:<br />
+**CREATE INDEX idx_apellidos**
+**ON personas(apellidos_nombres);**
+*****************************************************************************************************************
+🌱 **DROP INDEX**<br />
+Se utiliza para **borrar índices** en una tabla.<br />
+
+Por ejemplo:<br />
+**ALTER TABLE edades**
+**DROP INDEX index_nombres;**
 *****************************************************************************************************************
 
