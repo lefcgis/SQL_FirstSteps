@@ -11,7 +11,7 @@
 
 <h1>💊 Comandos 💊</h1>
 
-🌱 **SELECT**<br />
+🌱 <h2>**SELECT**<br /></h2>
 Extrae información desde una base de datos. La data resultante es almacenada en una tabla de resultados llamada Conjunto de resultados (result - set).<br />
 <br />
 **SELECT Columna 1, Columna 2,...**<br />
