@@ -25,7 +25,25 @@ _Lucho Ferrer_ 👨‍💻
 <br />
 Columna 1 y Columna 2 son los nombres de los campos de la tabla desde donde quieres seleccionar los datos. Si deseas seleccionar todos los campos disponibles en la tabla, utiiza la siguiente sintaxis.<br />
 
+Por ejemplo:<br />
 **SELECT * FROM nombre_tabla**
+*****************************************************************************************************************
+<h2>🌱ORDER BY</h2>
+<b>Ordena</b>los resultados de una consulta en un orden específico.<br />
+<br />
+
+Por ejemplo:<br />
+**SELECT * FROM nombres**<br />
+**ORDER BY edad ASC**
+*****************************************************************************************************************
+<h2>🌱GROUP BY</h2>
+<b>Agrupa</b> filas similares en conjunto, basándose en una o más columnas.<br />
+Se coloca luego de la función WHERE y se especifican las columnas por las que se desea agrupar.<br />
+<br />
+
+Por ejemplo:<br />
+**SELECT carreras, COUNT (carreras)**<br />
+**FROM nombres GROUP BY "category"**
 *****************************************************************************************************************
 <h2>🌱WHERE</h2>
 <b>Filtra</b>los resultados de una consulta. Se coloca luego del comando SELECT.<br />
@@ -141,4 +159,16 @@ Por ejemplo:<br />
 
 **ALTER TABLE edades**<br />
 **DROP INDEX index_nombres;**
+*****************************************************************************************************************
+<h2>🌱 JOIN</h2>
+Permite <b>recuperar información</b> relacionada de varias tablas.<br />
+INNER JOIN, LEFT JOIN entre otros, son algunos de los tipos de JOIN, cada uno con su lógica.
+<br />
+
+Por ejemplo:<br />
+
+**SELECT clients.names,**<br />
+**pedidos.fecha FROM clients**<br />
+**INNER JOIN pedidos on clients.id**<br />
+**= pedidos.cliente_id**<br />
 *****************************************************************************************************************
