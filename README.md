@@ -81,11 +81,11 @@ También es usada para añadir y borrar varias restricciones en una tabla existe
 
 Por ejemplo:<br />
 
-1. **ALTER TABLE** - **ADD COLUMN**<br />
++ 1. **ALTER TABLE** - **ADD COLUMN**<br />
 **ALTER TABLE clientes**<br />
 **ADD email VARCHAR (255)**<br />
 
-2. **ALTER TABLE** - **DROP COLUMN**<br />
++ 2. **ALTER TABLE** - **DROP COLUMN**<br />
 **ALTER TABLE clientes**<br />
 **DROP COLUMN email ;**<br />
 
