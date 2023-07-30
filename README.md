@@ -68,6 +68,7 @@ Por ejemplo:<br />
 *****************************************************************************************************************
 <h2>🌱 CREATE DATABASE</h2>
 Es usada para <b>crear</b> una nueva base de datos SQL.<br />
+<br />
 
 Por ejemplo:<br />
 
@@ -76,6 +77,7 @@ Por ejemplo:<br />
 <h2>🌱 ALTER TABLE</h2>
 Es utilizada para <b>añadir,borrar o modificar columnas</b> en una tabla existente.<br />
 También es usada para añadir y borrar varias restricciones en una tabla existente.<br />
+<br />
 
 Por ejemplo:<br />
 
@@ -94,7 +96,6 @@ Es utilizada para <b>crear</b> una nueva tabla en una base de datos.<br />
 
 Por ejemplo:<br />
 <br />
-
 **CREATE TABLE Personas(
       person_id INT,
       apellidos VARCHAR(255),
@@ -105,6 +106,7 @@ Por ejemplo:<br />
 *****************************************************************************************************************
 <h2>🌱 DROP TABLE</h2>
 Se utiliza para <b>borrar una tabla existente</b> en una base de datos.<br />
+<br />
 
 Por ejemplo:<br />
 
@@ -112,6 +114,7 @@ Por ejemplo:<br />
 *****************************************************************************************************************
 <h2>🌱 CREATE INDEX</h2>
 Se utiliza para <b>crear índices</b> en una tabla. Permite recuperar datos desde otra base de datos, de manera más rápida y eficiente.<br />
+<br />
 
 Por ejemplo:<br />
 
@@ -120,6 +123,7 @@ Por ejemplo:<br />
 *****************************************************************************************************************
 <h2>🌱 DROP INDEX</h2>
 Se utiliza para <b>borrar índices</b> en una tabla.<br />
+<br />
 
 Por ejemplo:<br />
 
