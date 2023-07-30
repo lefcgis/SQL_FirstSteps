@@ -27,6 +27,13 @@ Columna 1 y Columna 2 son los nombres de los campos de la tabla desde donde quie
 
 **SELECT * FROM nombre_tabla**
 *****************************************************************************************************************
+<h2>🌱WHERE</h2>
+<b>Filtra</b>los resultados de una consulta. Se coloca _luego_ del comando SELECT.<br />
+<br />
+
+**SELECT * FROM clientes**<br />
+**WHERE edad>20**
+*****************************************************************************************************************
 <h2>🌱 UPDATE</h2>
 Es utilizado para <b>modificar</b> registros existentes en una tabla.<br />
 <br />
