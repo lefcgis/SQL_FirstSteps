@@ -49,6 +49,8 @@ Por ejemplo:<br />
 <b>Filtra</b>los resultados de una consulta. Se coloca luego del comando SELECT.<br />
 <br />
 
+Por ejemplo:<br />
+
 **SELECT * FROM clientes**<br />
 **WHERE edad>20**
 *****************************************************************************************************************
@@ -162,7 +164,7 @@ Por ejemplo:<br />
 *****************************************************************************************************************
 <h2>🌱 JOIN</h2>
 Permite <b>recuperar información</b> relacionada de varias tablas.<br />
-INNER JOIN, LEFT JOIN entre otros, son algunos de los tipos de JOIN, cada uno con su lógica.
+INNER JOIN, LEFT JOIN entre otros, son algunos de los tipos de JOIN, cada uno con su lógica.<br />
 <br />
 
 Por ejemplo:<br />
