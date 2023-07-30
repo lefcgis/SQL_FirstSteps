@@ -12,7 +12,7 @@
 <h1>💊 Comandos 💊</h1>
 
 <h2>🌱SELECT</h2>
-Extrae información desde una base de datos. La data resultante es almacenada en una tabla de resultados llamada Conjunto de resultados (result - set).<br />
+<b>**Extrae**</b> información desde una base de datos. La data resultante es almacenada en una tabla de resultados llamada Conjunto de resultados (result - set).<br />
 <br />
 
 **SELECT Columna 1, Columna 2,...**<br />
@@ -67,14 +67,14 @@ Por ejemplo:<br />
 **VALUES('Ricardo Belmont', 'Augusto Ferrando', 'Av. Manco Capac 1260', 'La Victoria', 'Perú') ;**<br />
 *****************************************************************************************************************
 <h2>🌱 CREATE DATABASE</h2>
-Es usada para **crear** una nueva base de datos SQL.**<br />
+Es usada para **crear** una nueva base de datos SQL.<br />
 
 Por ejemplo:<br />
 
 **CREATE DATABASE comida_db**;
 *****************************************************************************************************************
 <h2>🌱 ALTER TABLE</h2>
-Es utilizada para **añadir, borrar o modificar** columnas en una tabla existente.<br />
+Es utilizada para **añadir,borrar o modificar columnas** en una tabla existente.<br />
 También es usada para añadir y borrar varias restricciones en una tabla existente.<br />
 
 Por ejemplo:<br />
