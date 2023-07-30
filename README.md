@@ -28,7 +28,7 @@ Columna 1 y Columna 2 son los nombres de los campos de la tabla desde donde quie
 **SELECT * FROM nombre_tabla**
 *****************************************************************************************************************
 <h2>🌱WHERE</h2>
-<b>Filtra</b>los resultados de una consulta. Se coloca _luego_ del comando SELECT.<br />
+<b>Filtra</b>los resultados de una consulta. Se coloca luego del comando SELECT.<br />
 <br />
 
 **SELECT * FROM clientes**<br />
