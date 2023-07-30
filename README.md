@@ -9,9 +9,10 @@
 <b>SQL</b> es el Lenguaje Estructuado de Consultas. Es usado para almacenar y administrar datos a través de un sistema de bases de datos relacionales (**RDBMS**).<br />
 <br />
 PostgreSQL, MySQL, SQLite, Oracle, SQL Server, entre otros son algunas de las tecnologías qe utilizan este lenguaje.<br />
-
+<br />
 _Lucho Ferrer_ 👨‍💻
 *****************************************************************************************************************
+<br />
 <h1>💊 Comandos 💊</h1>
 
 <h2>🌱SELECT</h2>
