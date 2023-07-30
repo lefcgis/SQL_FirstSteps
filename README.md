@@ -10,8 +10,6 @@
 <br />
 PostgreSQL, MySQL, SQLite, Oracle, SQL Server, entre otros son algunas de las tecnologías qe utilizan este lenguaje.<br />
 <br />
-<br />
-<br />
 *****************************************************************************************************************
 <h1>💊 Comandos 💊</h1>
 
