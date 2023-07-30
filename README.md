@@ -96,12 +96,12 @@ Es utilizada para <b>crear</b> una nueva tabla en una base de datos.<br />
 
 Por ejemplo:<br />
 <br />
-**CREATE TABLE Personas(
-      person_id INT,
-      apellidos VARCHAR(255),
-      nombres VARCHAR(100),
-      direcc VARCHAR(255),
-      distr VARCHAR(100)
+**CREATE TABLE Personas(<br />
+      person_id INT,<br />
+      apellidos VARCHAR(255),<br />
+      nombres VARCHAR(100),<br />
+      direcc VARCHAR(255),<br />
+      distr VARCHAR(100)<br />
   );**
 *****************************************************************************************************************
 <h2>🌱 DROP TABLE</h2>
@@ -118,7 +118,7 @@ Se utiliza para <b>crear índices</b> en una tabla. Permite recuperar datos desd
 
 Por ejemplo:<br />
 
-**CREATE INDEX idx_apellidos**
+**CREATE INDEX idx_apellidos**<br />
 **ON personas(apellidos_nombres);**
 *****************************************************************************************************************
 <h2>🌱 DROP INDEX</h2>
@@ -127,6 +127,6 @@ Se utiliza para <b>borrar índices</b> en una tabla.<br />
 
 Por ejemplo:<br />
 
-**ALTER TABLE edades**
+**ALTER TABLE edades**<br />
 **DROP INDEX index_nombres;**
 *****************************************************************************************************************
