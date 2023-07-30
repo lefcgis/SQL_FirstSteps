@@ -24,6 +24,7 @@ Columna 1 y Columna 2 son los nombres de los campos de la tabla desde donde quie
 *****************************************************************************************************************
 <h2>🌱 UPDATE</h2>
 Es utilizado para **modificar** registros existentes en una tabla.<br />
+<br />
 
 **UPDATE nombre_tabla**<br />
 **SET columna 1= valor 1,**<br />
@@ -39,6 +40,7 @@ Por ejemplo:<br />
 <h2>🌱 DELETE</h2>
 Es utilizada para **eliminar** registros existentes en una tabla.<br />
 <br />
+
 **DELETE FROM nombre_tabla**<br />
 **WHERE Condición;**<br />
 <br />
@@ -50,6 +52,7 @@ Por ejemplo:<br />
 <h2>🌱 INSERT INTO</h2>
 Se utiliza para **insertar(agregar) nuevos registros** en una tabla. Se puede escribir la función de dos maneras:<br />
 <br />
+
 1. Especificando las columnas y valores que serán insertados<br />
 **INSERT INTO nombre_tabla**<br />
 **(columna 1, columna 2, columna 3,...)**<br />
@@ -90,6 +93,7 @@ Por ejemplo:<br />
 Es utilizada para **crear** una nueva tabla en una base de datos.<br />
 
 Por ejemplo:<br />
+<br />
 
 **CREATE TABLE Personas(
       person_id INT,
@@ -110,6 +114,7 @@ Por ejemplo:<br />
 Se utiliza para **crear índices** en una tabla. Permite recuperar datos desde otra base de datos, de manera más rápida y eficiente.<br />
 
 Por ejemplo:<br />
+
 **CREATE INDEX idx_apellidos**
 **ON personas(apellidos_nombres);**
 *****************************************************************************************************************
@@ -117,6 +122,7 @@ Por ejemplo:<br />
 Se utiliza para **borrar índices** en una tabla.<br />
 
 Por ejemplo:<br />
+
 **ALTER TABLE edades**
 **DROP INDEX index_nombres;**
 *****************************************************************************************************************
