@@ -9,7 +9,7 @@
 <b>SQL</b> es el Lenguaje Estructuado de Consultas. Es usado para almacenar y administrar datos a través de un sistema de bases de datos relacionales (**RDBMS**). Es el único lenguaje que puede usarse para comunicarse con cualquier producto de gestión de bases de datos relacionales.<br />
 <br />
 
-PostgreSQL, MySQL, SQLite, Oracle, SQL Server, entre otros son algunas de los RDBMSque utilizan este lenguaje.<br />
+PostgreSQL, MySQL, SQLite, Oracle, SQL Server, entre otros son algunas de los RDBMS que utilizan este lenguaje.<br />
 <br />
 Es importante mencionar que SQL no es un caso de lenguaje sensitivo, lo que nos permite escribir consultas predefinidas en SQL o sintaxis en cualquier tipo de caracteres(mayúsculas o minúsculas).
 <br />
