@@ -35,7 +35,7 @@ _Lucho Ferrer_ 👨‍💻
 - Savepoint<br />
 <h2>Data Control Language (DCL)</h2>
 - Grant<br />
-- Revoke<br />
+- Revoke
 *****************************************************************************************************************
 <h1>💊 Comandos 💊</h1>
 
