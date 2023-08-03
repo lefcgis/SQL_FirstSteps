@@ -4,7 +4,7 @@
 
 <br />
 
-<h1>💊##¿Qué es SQL? 💊</h1>
+<h1>💊¿Qué es SQL? 💊</h1>
 
 <b>SQL</b> es el Lenguaje Estructuado de Consultas. Es usado para almacenar y administrar datos a través de un sistema de bases de datos relacionales (**RDBMS**). Es el único lenguaje que puede usarse para comunicarse con cualquier producto de gestión de bases de datos relacionales.<br />
 <br />
@@ -20,8 +20,29 @@ _Lucho Ferrer_ 👨‍💻
 <br />
 <br />
 
-
-
+<h2>Data Definition Language (DDL)</h2><br />
+- Create<br />
+- Alter<br />
+- Sp_rename<br />
+- Truncate<br />
+- Drop<br />
+<br />
+<h2>Data Manipulation Language (DML)</h2><br />
+- Insert<br />
+- Update<br />
+- Delete<br />
+<br />
+<h2>Data Query Language (DQL)</h2><br />
+- Select<br />
+<br />
+<h2>Transaction Control Language (TCL)</h2><br />
+- Commit<br />
+- Rollback<br />
+- Savepoint<br />
+<br />
+<h2>Data Control Language (DCL)</h2><br />
+- Grant<br />
+- Revoke<br />
 
 
 
