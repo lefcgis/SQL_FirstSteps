@@ -16,6 +16,29 @@ Es importante mencionar que SQL no es un caso de lenguaje sensitivo, lo que nos 
 <br />
 _Lucho Ferrer_ 👨‍💻
 *****************************************************************************************************************
+<h1>💊 Sublenguajes 💊</h1>
+
+<h2>Data Definition Language (DDL)</h2>
+- Create<br />
+- Alter<br />
+- Sp_rename<br />
+- Truncate<br />
+- Drop<br />
+<h2>Data Manipulation Language (DML)</h2>
+- Insert<br />
+- Update<br />
+- Delete<br />
+<h2>Data Query Language (DQL)</h2>
+- Select<br />
+<h2>Transaction Control Language (TCL)</h2>
+- Commit<br />
+- Rollback<br />
+- Savepoint<br />
+<h2>Data Control Language (DCL)</h2>
+- Grant<br />
+- Revoke
+
+*****************************************************************************************************************<>
 <h1>💊 Comandos 💊</h1>
 
 <h2>🌱SELECT</h2>
