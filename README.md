@@ -19,21 +19,20 @@ _Lucho Ferrer_ 👨‍💻
 <h1>💊 Sublenguajes 💊</h1><br />
 <br />
 
-+ <h2>Data Definition Language (DDL)</h2>
+<h2>+ Data Definition Language (DDL)</h2>
 - Create<br />
 - Alter<br />
 - Sp_rename<br />
 - Truncate<br />
 - Drop<br />
-<br />
 <h2>Data Manipulation Language (DML)</h2>
 - Insert<br />
 - Update<br />
 - Delete<br />
 <br />
-<h2>Data Query Language (DQL)</h2>
+<h2>+ Data Query Language (DQL)</h2>
 - Select<br />
-<br />
+
 <h2>Transaction Control Language (TCL)</h2>
 - Commit<br />
 - Rollback<br />
