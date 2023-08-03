@@ -19,7 +19,7 @@ _Lucho Ferrer_ 👨‍💻
 <h1>💊 Sublenguajes 💊</h1><br />
 <br />
 
-<h2>+ Data Definition Language (DDL)</h2>
+<h2>+Data Definition Language (DDL)</h2>
 - Create<br />
 - Alter<br />
 - Sp_rename<br />
