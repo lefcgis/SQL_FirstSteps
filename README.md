@@ -27,26 +27,15 @@ _Lucho Ferrer_ 👨‍💻
 - Insert<br />
 - Update<br />
 - Delete<br />
-<br />
-<h2>+ Data Query Language (DQL)</h2>
+<h2>Data Query Language (DQL)</h2>
 - Select<br />
-
 <h2>Transaction Control Language (TCL)</h2>
 - Commit<br />
 - Rollback<br />
 - Savepoint<br />
-<br />
 <h2>Data Control Language (DCL)</h2>
 - Grant<br />
 - Revoke<br />
-
-
-
-
-
-
-
-
 *****************************************************************************************************************
 <h1>💊 Comandos 💊</h1>
 
