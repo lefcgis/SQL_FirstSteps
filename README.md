@@ -17,6 +17,7 @@ Es importante mencionar que SQL no es un caso de lenguaje sensitivo, lo que nos 
 _Lucho Ferrer_ 👨‍💻
 *****************************************************************************************************************
 <h1>💊 Sublenguajes 💊</h1>
+
 <h2>Data Definition Language (DDL)</h2>
 - Create<br />
 - Alter<br />
@@ -35,8 +36,7 @@ _Lucho Ferrer_ 👨‍💻
 - Savepoint<br />
 <h2>Data Control Language (DCL)</h2>
 - Grant<br />
-- Revoke<br />
-<br />
+- Revoke
 *****************************************************************************************************************
 <h1>💊 Comandos 💊</h1>
 
