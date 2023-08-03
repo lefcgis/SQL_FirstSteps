@@ -4,7 +4,7 @@
 
 <br />
 
-<h1>💊¿Qué es SQL? 💊</h1>
+##<h1>💊¿Qué es SQL? 💊</h1>
 
 <b>SQL</b> es el Lenguaje Estructuado de Consultas. Es usado para almacenar y administrar datos a través de un sistema de bases de datos relacionales (**RDBMS**). Es el único lenguaje que puede usarse para comunicarse con cualquier producto de gestión de bases de datos relacionales.<br />
 <br />
@@ -16,7 +16,21 @@ Es importante mencionar que SQL no es un caso de lenguaje sensitivo, lo que nos 
 <br />
 _Lucho Ferrer_ 👨‍💻
 *****************************************************************************************************************
+<h1>💊 Sublenguajes 💊</h1><br />
+<br />
+<br />
 
+
+
+
+
+
+
+
+
+
+
+*****************************************************************************************************************
 <h1>💊 Comandos 💊</h1>
 
 <h2>🌱SELECT</h2>
