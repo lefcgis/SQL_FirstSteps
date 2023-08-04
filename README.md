@@ -51,6 +51,7 @@ _Lucho Ferrer_ 👨‍💻
 Columna 1 y Columna 2 son los nombres de los campos de la tabla desde donde quieres seleccionar los datos. Si deseas seleccionar todos los campos disponibles en la tabla, utiiza la siguiente sintaxis.<br />
 
 Por ejemplo:<br />
+
 **SELECT * FROM nombre_tabla**
 *****************************************************************************************************************
 <h2>🌱ORDER BY</h2>
@@ -58,6 +59,7 @@ Por ejemplo:<br />
 <br />
 
 Por ejemplo:<br />
+
 **SELECT * FROM nombres**<br />
 **ORDER BY edad ASC**
 *****************************************************************************************************************
@@ -67,6 +69,7 @@ Se coloca luego de la función WHERE y se especifican las columnas por las que s
 <br />
 
 Por ejemplo:<br />
+
 **SELECT carreras, COUNT (carreras)**<br />
 **FROM nombres GROUP BY "category"**
 *****************************************************************************************************************
@@ -152,7 +155,7 @@ Por ejemplo:<br />
 Es utilizada para <b>crear</b> una nueva tabla en una base de datos.<br />
 
 Por ejemplo:<br />
-<br />
+
 **CREATE TABLE Personas(<br />
       person_id INT,<br />
       apellidos VARCHAR(255),<br />
