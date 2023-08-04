@@ -199,3 +199,12 @@ Por ejemplo:<br />
 **INNER JOIN pedidos on clients.id**<br />
 **= pedidos.cliente_id**<br />
 *****************************************************************************************************************
+<h2>🌱 ALTER COLUMN</h2>
+Se utiliza para <b>cambiar</b> el tipo de dato y también el tamaño del tipo, de una columna específica en una tabla.<br />
+<br />
+
+Por ejemplo:<br />
+
+**ALTER TABLE clientes**<br />
+**ALTER COLUMN** names VARCHAR (50);
+*****************************************************************************************************************
